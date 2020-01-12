@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Jason Philip Yannos
-image: /img/tyler-lastovich-d0Sl3AH8Tlg-unsplash.jpg
+image: /img/jonas-denil-VTDm03aGzl4-unsplash.jpg
 heading: Great coffee with a conscience
 subheading: Finance | Crypto | Fast Cars | Eddie the Dog
 mainpitch:
